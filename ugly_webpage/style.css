@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Passion+One:400,700,900);
+
+em {
+  color: hotpink;
+  font-size: 12px;
+}
+
+strong {
+  color: brown;
+  font-size: 24px;
+  font-family: Lobster;
+}
+
+#walrus {
+  float: right;
+  padding: 5px;
+  border: 3px dashed aqua;
+  background-color: purple;
+}
+
+#oyster {
+  float: center;
+  padding: 2px;
+  border: 25px solid yellow;
+}
+
+ol {
+  text-decoration: overline;
+  letter-spacing: -2px;
+}
+
+ul {
+  text-decoration: underline;
+}
+
+p {
+  letter-spacing: 15px;
+  font-family: Indie Flower;
+}
+
+header {
+  font-family: Shadows Into Light;
+}
+
+body {
+  font-family: Passion One;
+  font-weight: lighter;
+}
+
+footer {
+  font-family: Shadows Into Light;
+}
+
+#div1 {
+  background-color: red;
+  float: center;
+}
+
+#div2 {
+  background-color: orange;
+}
+
+#div3 {
+  background-color: magenta;
+  float: center;
+  padding: 50px;
+  border: 1px solid black;
+  width: 105%;
+}
+
+#div4 {
+  background-color: gray;
+  width: 20%;
+  border-right: 10px solid silver;
+}
+
+#div5 {
+  background-color: green;
+  border-top: 5px dashed cyan;
+  border-bottom: 10px dotted beige;
+  width: 66%;
+}
+
+body {
+  background-image: url(http://cp91279.biography.com/BIO_Biography_Lewis-Carroll-Wonderland-Writer_SF_HD_768x432-16x9.jpg);
+  color: white;
+  word-spacing: 10px;
+}
