@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Oranienbaum);
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,400);
+
+h1 {
+  text-align: center;
+  font-family: Oranienbaum;
+  font-size: 80px;
+  letter-spacing: 10px;
+  color: #7D6E66;
+}
+
+body#homepage {
+  background-image: url("../beachwedding.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 0px 215px;
+}
+
+
+.navbar-nav{
+    margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+    float:none;
+}
+
+p {
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 100;
+  word-spacing: 3px;
+  color: #262424;
+}
+
+p#title {
+  letter-spacing: 8px;
+  color: #554E4A;
+}
+
+h3 {
+  text-align: center;
+  font-family: Oranienbaum;
+  color: #554E4A;
+}
+
+a:link, a:visited {
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    color: #7D6E66;
+}
+
+li#contact {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 100;
+  color: #554E4A;
+}
+
+li {
+  font-family: Roboto;
+  font-weight: 400;
+  color: #554E4A;
+}
+
+body {
+  background-color: #D4E3EF;
+  background-position: 0px 215px;
+}
